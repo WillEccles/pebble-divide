@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "BCOLOR_KEY": 2,
+        "BGCOLOR_KEY": 0,
+        "TCOLOR_KEY": 1
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Will Eccles",
+    "longName": "Divide",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/divide-menu-icon.png",
+                "name": "DIVIDE_MENU_ICON",
+                "type": "png-trans"
+            },
+            {
+                "file": "fonts/Play-Bold.ttf",
+                "name": "FONT_PLAY_BOLD_65",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Divide",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "42b1daf5-4c71-46cb-8e15-a17f8559e0a7",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
