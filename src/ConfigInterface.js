@@ -5,9 +5,6 @@
 // JS
 //
 
-
-/// EVEN THOUGH THIS DOES NOT WORK, IT IS HERE FOR FUTURE REFERENCE OR FOR USE IN FUTURE VERSIONS
-
 // URL to configuration page. Since this is subject to change, I made it easier to change.
 var configURL = "http://willeccles.github.io/dividesettings/";
 
